@@ -127,4 +127,4 @@ else:
 
 # Footer
 st.caption("Data Source: OECD PISA 2022 International Database | "
-           "Project by Ibrahim | University of Portsmouth")
+           "Project by Hariram | University of Portsmouth")
